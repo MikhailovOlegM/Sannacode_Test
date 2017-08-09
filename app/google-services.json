@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550317430581",
+    "project_id": "testapp-a9700"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550317430581:android:69ada8fba30bf0f3",
+        "android_client_info": {
+          "package_name": "sannacode.testapp.com.sannacode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550317430581-t0jmgc5qcvivdtvvvioa01fbbeuu2laj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sannacode.testapp.com.sannacode",
+            "certificate_hash": "a0b8083743629e49cf739d97e91d9851d19efbd5"
+          }
+        },
+        {
+          "client_id": "550317430581-r880q88om2ori7oo87kg8p25lvgrr85j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6oAYsVg27MnnyUXUoV9g3QWd-bWXvvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

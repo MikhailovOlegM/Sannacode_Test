@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Sannacode</string>
+  <string name="signed_in_fmt">Well!</string>
+  <string name="hello">Если вы хотите начать пользоваться приложением - авторизируйтесь через ваш Gmail аккаунт</string>
+  <string name="title_activity_main_view">MainView</string>
+  <string name="addContact">add_contact</string>
+  <string name="firrstLastName">Имя и Фамилия</string>
+  <string name="email">Введите email</string>
+  <string name="phone">Номер телефона</string>
+  <string name="btn_add">Добавить</string>
+  <string name="btn_edit">Изменить</string>
+
+  <string-array name="type">
+
+    <item>Изменить</item>
+    <item>Позвонить</item>
+    <item>Написать</item>
+    <item>Удалить</item>
+</string-array>
+
+
+  </resources>

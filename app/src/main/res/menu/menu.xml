@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/upPoint"
+    android:icon="@drawable/up"
+    android:orderInCategory="100"
+    app:showAsAction="always" />
+  <item
+    android:id="@+id/downPoint"
+    android:icon="@drawable/down"
+    android:orderInCategory="100"
+    app:showAsAction="always" />
+  <item
+    android:id="@+id/addContact"
+    android:icon="@drawable/add_user"
+    android:orderInCategory="100"
+    android:title="@string/addContact"
+    app:showAsAction="always" />
+</menu>
